@@ -22,6 +22,8 @@ public class Make_My_Trip{
 		driver.manage().window().maximize();
 		
 		driver.manage().window().fullscreen();
+				
+		System.out.println("MakeMYtrip website launched");
 		 
 	}
 		
